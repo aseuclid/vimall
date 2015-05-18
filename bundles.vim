@@ -24,7 +24,8 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'CmdlineComplete'
 Plugin 'neocomplcache'
 
-
+Plugin 'yegappan/grep'
+Plugin 'mileszs/ack.vim'
 Plugin 'vim-scripts/JavaScript-Indent'
 
 " plugin from http://vim-scripts.org/vim/scripts.html
