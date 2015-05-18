@@ -1,4 +1,5 @@
 source $HOME/.vim/vimall/bundles.vim
+source $HOME/.vim/vimall/map.vim
 
 set fileencodings=utf-8,gbk
 set enc=utf8

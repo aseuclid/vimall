@@ -16,7 +16,16 @@ Plugin 'gmarik/Vundle.vim'
 "Plugin 'tpope/vim-fugitive'
 Plugin 'Raimondi/delimitMate'
 Plugin 'scrooloose/syntastic'
+Plugin 'scrooloose/nerdtree'
+Plugin 'scrooloose/nerdcommenter'
 Plugin 'tpope/vim-surround'
+Plugin 'majutsushi/tagbar'
+Plugin 'kien/ctrlp.vim'
+Plugin 'CmdlineComplete'
+Plugin 'neocomplcache'
+
+
+Plugin 'vim-scripts/JavaScript-Indent'
 
 " plugin from http://vim-scripts.org/vim/scripts.html
 "Plugin 'L9'
