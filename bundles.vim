@@ -17,6 +17,8 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'Raimondi/delimitMate'
 Plugin 'scrooloose/syntastic'
 Plugin 'tpope/vim-surround'
+Plugin 'yegappan/grep'
+Plugin 'mileszs/ack.vim'
 
 " plugin from http://vim-scripts.org/vim/scripts.html
 "Plugin 'L9'

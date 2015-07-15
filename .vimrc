@@ -18,5 +18,7 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 
+set hlsearch
+
 "按缩进折叠
 set foldmethod=indent
