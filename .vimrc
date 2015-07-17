@@ -4,6 +4,8 @@ source $HOME/.vim/vimall/map.vim
 set fileencodings=utf-8,gbk
 set enc=utf8
 set tenc=utf8
+autocmd FileType java set nobomb
+
 syntax enable
 set background=dark
 colorscheme solarized
