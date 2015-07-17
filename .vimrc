@@ -6,6 +6,11 @@ set enc=utf8
 set tenc=utf8
 autocmd FileType java set nobomb
 
+autocmd FileType php set omnifunc=phpcomplete#CompletePHP
+autocmd FileType javascript set omnifunc=javascriptcomplete.vim#CompleteJS
+autocmd FileType python set omnifunc=pythoncomplete#Complete
+autocmd FileType c set omnifunc=ccomplete#Complete
+
 syntax enable
 set background=dark
 colorscheme solarized
